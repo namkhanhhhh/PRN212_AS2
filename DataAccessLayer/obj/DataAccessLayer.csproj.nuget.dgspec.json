@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\BusinessObjects\\BusinessObjects.csproj": {
+    "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\BusinessObjects\\obj\\",
+        "outputPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,14 +102,14 @@
         }
       }
     },
-    "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\DataAccessLayer\\obj\\",
+        "outputPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,8 +126,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\BusinessObjects\\BusinessObjects.csproj"
+              "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }

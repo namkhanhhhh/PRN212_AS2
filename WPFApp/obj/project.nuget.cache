@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dXzFxmYmPe8PZCXImVuvNsbzbLswMLEkqbDEzk3FNlbdDQGy57+P/mP4Vyc1QSE0RRwUsUT8XZe/6IqCiW0iqA==",
+  "dgSpecHash": "blaBHfBWiIy14kXGv4Gygy82R0qJXieJqk9govjuIBTJ08OyGqCKXcqMo7AsEDMMunwR2Qt14VEkkCBmpghqJA==",
   "success": true,
-  "projectFilePath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\WPFApp\\WPFApp.csproj",
+  "projectFilePath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\WPFApp\\WPFApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

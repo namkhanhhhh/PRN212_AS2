@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2QVok4npDqGXjJaJ09WE1aAO32Osj1M/2MLLSQlMuolv1k/6QN8sDx7EJV9M1D+zlqRJrgBmQcFhjODDDcUDHw==",
+  "dgSpecHash": "RO5yUq7IeZ3oia3bPzNVCXpN7vtf6/E/69/Fisi8A2njM6OenbZU/FO88YVw9j/f1irQT5AAdTlnTxibtFEIdw==",
   "success": true,
-  "projectFilePath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\Repositories\\Repositories.csproj",
+  "projectFilePath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

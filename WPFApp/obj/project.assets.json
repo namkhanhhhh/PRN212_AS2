@@ -4610,11 +4610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\WPFApp\\WPFApp.csproj",
+      "projectUniqueName": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\WPFApp\\WPFApp.csproj",
       "projectName": "WPFApp",
-      "projectPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\WPFApp\\WPFApp.csproj",
+      "projectPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\WPFApp\\WPFApp.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\WPFApp\\obj\\",
+      "outputPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\WPFApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4631,8 +4631,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows7.0",
           "projectReferences": {
-            "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\Services\\Services.csproj": {
-              "projectPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\Services\\Services.csproj"
+            "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\Services\\Services.csproj": {
+              "projectPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\Services\\Services.csproj"
             }
           }
         }

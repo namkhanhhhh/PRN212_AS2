@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\Ky 5\PRN212\HE180034_SE1819_A02\HE180034_SE1819_A02\WPFApp\obj\Debug\net8.0-windows7.0\
+F:\Ky 5\PRN212\HE180034_SE1819_A02\HE180034_SE1819_A02\PRN212_AS2\WPFApp\obj\Debug\net8.0-windows7.0\
 WPFApp
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-F:\Ky 5\PRN212\HE180034_SE1819_A02\HE180034_SE1819_A02\WPFApp\App.xaml
+F:\Ky 5\PRN212\HE180034_SE1819_A02\HE180034_SE1819_A02\PRN212_AS2\WPFApp\App.xaml
 111111229998
 
 17775290571
-251-595371171
+251711978253
 AddEditBookingDialog.xaml;AddEditCustomerDialog.xaml;AddEditRoomDialog.xaml;AdminWindow.xaml;BookingHistory.xaml;CustomerManagement.xaml;LoginWindow.xaml;MainWindow.xaml;ProfileManagement.xaml;ReportStatistics.xaml;RoomManagement.xaml;
 
-False
+True
 

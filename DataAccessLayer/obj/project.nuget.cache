@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y7aFVRcJqmfUcZtYnHY2dCsrt6z6lQB8ZiStNc14PN/M0Ued5LulraNIU2p0/zP5PApCYyd2/LQq+rV2sxgq3w==",
+  "dgSpecHash": "XJJpg6rrObi1bjhUCwJn4Om6YMA3CVLddIyC4jNloE9CvoR7AZrpACluz9quytpn91Uuvv9woHqGLPcmEfRW5Q==",
   "success": true,
-  "projectFilePath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A02\\HE180034_SE1819_A02\\PRN212_AS2\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
